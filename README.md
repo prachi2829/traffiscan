@@ -182,12 +182,6 @@ git clone https://github.com/prachi2829/traffiscan.git
 cd traffiscan
 ```
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Launch Dashboard
 
 ```bash
