@@ -1,6 +1,6 @@
-#  TraffiScan: Real-Time Traffic Analytics Dashboard
+# TraffiScan: Real-Time Object Detection and Tracking System
 
-TraffiScan is a real-time traffic analytics system that leverages **YOLOv8** for vehicle detection and **DeepSORT** for multi-object tracking. The system analyzes traffic videos, assigns unique IDs to vehicles, computes tracking metrics, and visualizes results through an interactive Streamlit dashboard.
+TraffiScan is a Computer Vision-based object detection and tracking system that combines YOLOv8 object detection and DeepSORT multi-object tracking to identify, track, and analyze vehicles in traffic videos. The system assigns persistent IDs to detected objects and visualizes tracking performance through an interactive Streamlit dashboard.
 
 ---
 
@@ -22,7 +22,9 @@ Streamlit-based Interactive Interface
 
 ## Dashboard Preview
 
-The Streamlit dashboard enables users to upload videos, run detection and tracking, and visualize traffic analytics in real time.
+## Dashboard Preview
+
+The Streamlit dashboard enables users to upload videos, perform object detection and tracking, visualize tracked objects, and monitor tracking performance metrics.
 
 ![Dashboard](assets/dashboard.png)
 
