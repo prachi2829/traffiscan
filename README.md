@@ -211,4 +211,3 @@ streamlit run app.py
 
 **Prachi Yadav**
 
-Computer Science Engineering Student | Computer Vision & Machine Learning Enthusiast
